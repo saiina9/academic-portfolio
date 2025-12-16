@@ -12,11 +12,11 @@
 مشاركة نصائح وملخصات 
 
 # التقنيات المستخدمة
-Frontend: HTML, CSS, JavaScript, أو مكتبة حديثة مثل React/Vue
+Frontend: HTML, CSS, JavaScript, أو مكتبة حديثة  React/Vue
 
 Backend: Node.js مع Express، أو Django/Flask
 
-قاعدة بيانات: MySQL، PostgreSQL، أو MongoDB
+قاعدة بياناتMySQL، PostgreSQL، أو MongoDB
 
 Responsive Design: CSS Grid/Flexbox أو مكتبات مثل Tailwind CSS/Bootstrap
 
